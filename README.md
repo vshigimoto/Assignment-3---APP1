@@ -6,4 +6,5 @@ Hello! it's my assignment for APP
 Need to install:
 pip install flask
 pip install flask-sqlalchemy
+pip install psycopg2-binary
 pip install psycopg2
