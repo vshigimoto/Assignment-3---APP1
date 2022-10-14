@@ -1,10 +1,9 @@
-# Assignment-3---APP1
-Assignment 3 for APP (AITU)
+# Assignment 3 for APP (AITU)
 
-Hello! it's my assignment for APP
+# Hello! it's my assignment for APP
 
-Need to install:
-pip install flask
-pip install flask-sqlalchemy
-pip install psycopg2-binary
-pip install psycopg2
+#### _Need to install:_
+* pip install flask
+* pip install flask-sqlalchemy
+* pip install psycopg2-binary
+* pip install psycopg2
