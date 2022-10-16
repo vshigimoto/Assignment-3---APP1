@@ -15,7 +15,7 @@ and view a some information about nft
 ### Examples
 #### input:
 
-nft adress: 3LSrdTBCy5Ahfff9Xof1pUVQFSNQVJ7sPDAVdPQPSTYG
+nft adress: https://solanart.io/nft/3LSrdTBCy5Ahfff9Xof1pUVQFSNQVJ7sPDAVdPQPSTYG
 
 ---
 
