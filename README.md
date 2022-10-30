@@ -14,9 +14,8 @@ first one you need install all from requirements.txt
 ### Usage
 ---
 secondly need sign up or login
+and enter solanart address
 
-in my project you can input solanart adress
-and view a some information about nft 
 ---
 ### Examples
 #### input:
