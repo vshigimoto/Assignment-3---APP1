@@ -3,13 +3,16 @@
 ### Hello! it's my assignment for Advanced python programming
 
 ---
+###Installation
+---
 first one you need install all from requirements.txt
 * pip install flask 
 * pip install flask_sqlalchemy
 * pip install requests 
 * and etc
 ---
-
+###Usage
+---
 secondly need sign up or login
 
 in my project you can input solanart adress
