@@ -6,11 +6,13 @@
 first one you need install all from requirements.txt
 * pip install flask 
 * pip install flask_sqlalchemy
-* pip install requests
+* pip install requests and etc
 ---
 
+secondly need sign up or login
+
 in my project you can input solanart adress
-and view a some information about nft
+and view a some information about nft 
 ---
 ### Examples
 #### input:
