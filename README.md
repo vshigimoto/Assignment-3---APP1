@@ -3,7 +3,7 @@
 ### Hello! it's my assignment for Advanced python programming
 
 ---
-### Installation
+### Installation:
 ---
 first one you need install all from requirements.txt
 * pip install flask 
@@ -11,13 +11,14 @@ first one you need install all from requirements.txt
 * pip install requests 
 * and etc
 ---
-### Usage
+### Usage:
 ---
 secondly need sign up or login
+
 and enter solanart address
 
 ---
-### Examples
+### Examples:
 #### input:
 
 nft adress: https://solanart.io/nft/3LSrdTBCy5Ahfff9Xof1pUVQFSNQVJ7sPDAVdPQPSTYG
