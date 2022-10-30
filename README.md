@@ -6,7 +6,8 @@
 first one you need install all from requirements.txt
 * pip install flask 
 * pip install flask_sqlalchemy
-* pip install requests and etc
+* pip install requests 
+* and etc
 ---
 
 secondly need sign up or login
